@@ -1,0 +1,6 @@
+- 👋 Oii, sou a Jociely!
+- ❤️ Estou em processo de aprendizado para me tornar uma desenvolvedora Frontend!
+- 🌱 Estudando JavaScript, HTML e CSS
+- 📫 jocielyc@gmail.com
+- 😄 Pronouns: Ela/Dela
+- ⚡Atualmente cursando Análise e Desenvolvimento de Sistemas.
