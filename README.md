@@ -2,4 +2,3 @@
 - ❤️ Estou em processo de aprendizado para me tornar uma desenvolvedora Frontend!
 - 🌱 Estudando JavaScript, HTML e CSS.
 - 😄 Pronouns: Ela/Dela.
-- ⚡Atualmente cursando Análise e Desenvolvimento de Sistemas.
